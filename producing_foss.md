@@ -1,8 +1,10 @@
 ##  书名
 
-《生产开放源代码软件:如何成功构建一个自由/开源软件项目》
+推荐中文书名：《生产开放源代码软件:如何成功构建一个自由/开源软件项目》
 
-英文原名：《Producing Open Source Software：How to Run a Successful Free Software Project》
+原版书名：《Producing Open Source Software：How to Run a Successful Free Software Project》
+
+中文译本书名：《制造开源软件-如何成功运营自由软件项目》，电子版可访问，未正式出版。
 
 ## 封面
 
@@ -19,7 +21,7 @@ Karl Fogel 因为这本被引用最多的书而驰名于开源界。但是他参
 
 ## 在线阅读
 
-本书电子版，遵循开放版权，可免费在线访问和下载。
+本书遵循CC BY-SA 4.0许可协议，提供中文在内的多语言版本，可免费在线访问和下载，。
 
 在线阅读地址：https://producingoss.com/ 
 
